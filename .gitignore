@@ -4,5 +4,9 @@
 .AppleDouble
 .LSOverride
 
+### img ###
+*.jpeg
+*.JPEG
+
 ### Download Files ###
 scraped
